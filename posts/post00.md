@@ -37,7 +37,7 @@ https://github.com/wcwm
       - REST API
   - 김동환
     - 프론트엔드
-      - Pyton
+      - Python
       - HTML + CSS
 
 [backtomain]: ../README.md "Back To Main Page"
